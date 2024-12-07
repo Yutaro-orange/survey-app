@@ -1,0 +1,12 @@
+# Node.js
+frontendnode_modules
+frontend.env
+
+# Python
+backend__pycache__
+backend.env
+
+# General
+.DS_Store
+.log
+.sqlite3
